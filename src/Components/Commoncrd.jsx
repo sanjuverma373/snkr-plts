@@ -32,7 +32,7 @@ const Commoncrd = () => {
                 <Col lg={3} md={6} className="pb-3">
                         <div className="related-sec-crd overflow-hidden ">
                                 <div className="position-relative overflow-hidden ">
-                                        <img className="w-100 crd-img" src={offcrd.imgc} alt="" />
+                                        <img className="w-100 crd-img" src={offcrd.imgc} alt="#" />
                                         <p className="off text-center fs-m-sm fw-light text-whites ff-poppins">-10% OFF</p>
                                         <p className="new text-center fs-m-sm fw-normal text-whites pt-1 ff-poppins">NEW</p>
                                 </div>
@@ -54,7 +54,7 @@ const Commoncrd = () => {
                                                 </defs>
                                         </svg>
                                 </div>
-                                <img className='ps-2 pb-4' src={blackstar} alt="" />
+                                <img className='ps-2 pb-4' src={blackstar} alt="#" />
                         </div>
                 </Col>
         ))
