@@ -203,9 +203,8 @@ transition: .4s;
 }
 
 .add-cart-btn:hover{
-  border-radius: 21px;
+
 background: white;
-padding: 10px 32px;
 border: 1px solid #28A745;
 color: #28A745;
 }
